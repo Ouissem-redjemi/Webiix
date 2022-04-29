@@ -1,0 +1,49 @@
+.service{
+    margin-top: 60px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.service h2 {
+    color: #c88a8a;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.service p{
+    color: gray;
+    font-size: 15px;
+    line-height: 30px;
+    margin: 20px 0px;
+}
+
+.service .comp {
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+    height: auto;
+    padding: 5px;
+    overflow: hidden;
+    margin-top: 20px;
+    font-size: 11px;
+    color: gray;
+}
+
+.service .comp svg  {
+  color: white;
+    background-color: #c88a8a;
+    border: 1px solid #c88a8a;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 11px;
+    padding: 15px;
+}

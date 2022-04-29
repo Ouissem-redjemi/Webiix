@@ -1,0 +1,34 @@
+header {
+    background: url("../../assets/cover.jpg") center no-repeat;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+header .header-overlay {
+    background-color: #c88a8a;
+    opacity: 0.6;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+header h2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 25px 0px;
+    line-height: 75px;
+    letter-spacing: 1px;
+}
+header p {
+    color: white;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 25px 0px;
+}

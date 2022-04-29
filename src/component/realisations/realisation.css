@@ -1,0 +1,31 @@
+.realisation{
+    margin-top: 45px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.realisation h2 {
+    color: #c88a8a;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+img{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+h5{
+    font-size: 25px;
+    color: #282c34;
+}
+p{
+    font-size: 20px;
+    color: gray;
+}

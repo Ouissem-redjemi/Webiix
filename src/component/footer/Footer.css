@@ -1,0 +1,70 @@
+.footer h4 {
+    font-size: 1.1rem;
+    color: #fff;
+    gap: 1.5rem;
+}
+.row{
+    margin: 6rem 0;
+    display: flex;
+}
+.logo h1 {
+    gap: 1.5rem;
+    color: white;
+}
+
+.footer {
+    background-color: #c88a8a;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    position:absolute;
+    padding-top:20px;
+    width: 100%;
+    height: auto;
+
+}
+
+.social__links span a {
+    text-decoration: none;
+    color: #fff;
+    opacity: 85%;
+    font-size: 1.2rem;
+    font-weight: 400;
+    transition: 0.3s;
+    alignment: right;
+    align-items: center;
+}
+
+.social__links span a:hover {
+    color: #e250e5;
+}
+
+.copyright {
+    color: white;
+    font-size: 0.8rem;
+    alignment: bottom;
+}
+
+.mb-3 input {
+    border-radius: 10px;
+    color: #343444;
+}
+
+.logoSocial{
+    display: flex;
+    gap: 1.5rem;
+    color: white;
+    justify-content: space-between;
+    font-size: 60px;
+    alignment: right;
+}
+li{
+    list-style: none;
+}
+
+.social{
+    align-items: end;
+    alignment: right;
+}
+

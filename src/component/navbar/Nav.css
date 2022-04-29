@@ -1,0 +1,40 @@
+nav{
+    background-color: black;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 5px 0px 5px 30px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+nav .navbar-brand{
+    color: #c88a8a !important;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+nav a.Nav-Link{
+    color: white;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin: 0px 20px !important;
+}
+
+nav a{
+    text-transform: uppercase;
+}
+
+nav a:hover{
+    color: #c88a8a;
+    transition: .2s ease-in-out;
+}
+
+nav a.home{
+    background-color: #c88a8a;
+    color: white !important;
+    border-radius: 20px;
+}
